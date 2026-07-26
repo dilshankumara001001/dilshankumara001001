@@ -81,7 +81,7 @@
 
 ---
 
-<!-- ====== FEATURE 8: CONNECT WITH ME ====== -->
+<!-- ====== FEATURE 8: CONNECT WITH ME (UPDATED WITH ALL LINKS) ====== -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -91,10 +91,21 @@
   <a href="https://github.com/dilshankumara001001">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/dilshan-kumara-690a0a339">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1GkiyvA2An/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@dilshansingsl">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 📧 **Email:** dileepadilshan46@gmail.com  
-📞 **Phone:** 0701004534
+📞 **Phone:** 0701004534  
+💼 **LinkedIn:** [linkedin.com/in/dilshan-kumara-690a0a339](https://www.linkedin.com/in/dilshan-kumara-690a0a339)  
+📺 **YouTube:** [youtube.com/@dilshansingsl](https://youtube.com/@dilshansingsl)
 
 ---
 
