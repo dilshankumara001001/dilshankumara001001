@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Dilshan%20Kumara&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1&pause=0&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Dilshan+Kumara" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dilshan Kumara</h1>
@@ -141,9 +141,9 @@ Become a Professional Software Engineer and build useful software solutions.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dilshankumara001001&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshankumara001001&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -153,7 +153,7 @@ Become a Professional Software Engineer and build useful software solutions.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankumara001001&theme=tokyonight"/>
 
 </p>
 
@@ -163,7 +163,7 @@ Become a Professional Software Engineer and build useful software solutions.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshankumara001001&theme=tokyo-night"/>
 
 </p>
 
@@ -173,7 +173,7 @@ Become a Professional Software Engineer and build useful software solutions.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dilshankumara001001&theme=tokyonight&column=4"/>
 
 </p>
 
@@ -181,11 +181,11 @@ Become a Professional Software Engineer and build useful software solutions.
 
 # 🌍 Connect With Me
 
-📧 Email: YOUR_EMAIL
+📧 Email: dilshankumara001001@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN
+💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+💻 GitHub: https://github.com/dilshankumara001001
 
 ---
 
@@ -197,7 +197,7 @@ Become a Professional Software Engineer and build useful software solutions.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=dilshankumara001001&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
