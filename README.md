@@ -81,14 +81,14 @@
 
 ---
 
-<!-- ====== FEATURE 8: GITWORLD ANIMATION (NEW & BETTER) ====== -->
+<!-- ====== FEATURE 8: GITWORLD ANIMATION ====== -->
 ## 🌆 My GitHub Contributions as a Living City
 
 <p align="center">
   <img src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/gitworld.svg" width="100%" alt="GitWorld City" />
 </p>
 
-> 🏙️ *This is a living city built from your GitHub activity! Repositories = buildings, Commits = construction, PRs = bosses, Issues = monsters.*
+> 🏙️ *This living city is built from your GitHub activity! Repositories → buildings, Commits → construction, PRs → bosses, Issues → monsters.*
 
 > 💡 **Note:** The city will start building after you make your first contribution and the GitHub Action runs. Give it 24 hours to fully generate!
 
