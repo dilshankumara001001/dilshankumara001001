@@ -72,7 +72,7 @@
 
 ---
 
-<!-- ====== FEATURE 7: PERSONAL QUOTE (CUSTOM - NO API) ====== -->
+<!-- ====== FEATURE 7: PERSONAL QUOTE ====== -->
 ## ✍️ My Quote
 
 <p align="center">
@@ -108,13 +108,6 @@
 📞 **Phone:** 0701004534  
 💼 **LinkedIn:** [linkedin.com/in/dilshan-kumara-690a0a339](https://www.linkedin.com/in/dilshan-kumara-690a0a339)  
 📺 **YouTube:** [youtube.com/@dilshansingsl](https://youtube.com/@dilshansingsl)
-
----
-
-<!-- ====== FEATURE 9: FAVORITE QUOTE ====== -->
-## 💬 My Favorite Quote
-
-> *"Code. Learn. Build. Improve. Repeat."*
 
 ---
 
