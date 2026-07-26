@@ -1,48 +1,23 @@
-<!-- Welcome Banner with Wave Animation -->
+<!-- ========== ANIMATION 1: WAVING BANNER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dilshan%20Kumara&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Dilshan%20Kumara&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- ========== ANIMATION 2: TYPING TEXT ========== -->
 <h1 align="center">Hi 👋, I'm Dilshan Kumara</h1>
 
-<h3 align="center">
-🎓 HNDIT Student | 💻 Aspiring Software Engineer | 🚀 Full-Stack Developer
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;HNDIT+Student+from+Sri+Lanka;Aspiring+Software+Engineer;Passionate+about+Software+Development"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=HNDIT+Student;Aspiring+Software+Engineer;Full-Stack+Developer;From+Sri+Lanka+🇱🇰"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm currently pursuing my **Higher National Diploma in Information Technology (HNDIT)** at the **Advanced Technological Institute (ATI), Tangalle, Sri Lanka**.
-
-I have a strong passion for **software development** and **web technologies**. I enjoy building practical solutions and continuously learning new skills to grow as a developer.
-
-**What I'm currently learning:**
-- Java, PHP, JavaScript, C#
-- HTML5, CSS3, MySQL
-- Software Engineering & Business Analysis
-- IT Service Management (ITSM)
-
-**My goal:**  
-To become a professional software engineer and build useful, high-quality software that makes a difference.
-
----
-
-## 📂 Academic Projects I've Built
-
-- 🍽 **Food Inventory Management System**  
-- 🍕 **Online Food Ordering System**  
-- 🌍 **Travel & Tour Website**  
-- 🚗 **Car Rental Management System**  
-- 🛒 **Supermarket Billing Management System**  
-- 🎓 **Student Attendance Management System**  
-- 📚 **Student Grade Calculator** (Java)  
-- 💾 **Secure Backup Software System**
+🎓 HNDIT Student at ATI Tangalle  
+💻 Passionate about Software Development  
+🌱 Learning: Java, PHP, JavaScript, Python, MySQL  
+🎯 Goal: Become a Professional Software Engineer
 
 ---
 
@@ -54,11 +29,20 @@ To become a professional software engineer and build useful, high-quality softwa
 
 ---
 
+## 📂 Projects
+
+🍽 Food Inventory System • 🍕 Online Food Ordering  
+🌍 Travel Website • 🚗 Car Rental System  
+🛒 Supermarket Billing • 🎓 Student Attendance  
+📚 Grade Calculator • 💾 Backup System
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dilshankumara001001&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshankumara001001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dilshankumara001001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshankumara001001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -67,50 +51,35 @@ To become a professional software engineer and build useful, high-quality softwa
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshankumara001001&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dilshankumara001001&theme=tokyonight&column=4&no-frame=true" width="85%" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilshankumara001001&theme=tokyonight&column=4&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Animated)
+<!-- ========== ANIMATION 3: SNAKE ========== -->
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake" src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-> 💡 **Note:** The snake will appear green once you start making contributions and the GitHub Action runs automatically. If it looks empty right now, don't worry – it will come to life as soon as you push some code!
-
 ---
 
-## 🌐 Connect With Me
+## 📬 Connect
 
-📧 **Email:** dileepadilshan46@gmail.com  
-📞 **Phone:** 0701004534  
-💻 **GitHub:** https://github.com/dilshankumara001001
-
----
-
-## 💬 My Favorite Quote
-
-> *"Code. Learn. Build. Improve. Repeat."*
+📧 dileepadilshan46@gmail.com  
+📞 0701004534  
+💻 [github.com/dilshankumara001001](https://github.com/dilshankumara001001)
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Have a great day! ⭐
+⭐ Thanks for visiting! ⭐
 </p>
