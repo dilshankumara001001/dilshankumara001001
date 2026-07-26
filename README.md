@@ -81,20 +81,16 @@
 
 ---
 
-<!-- ====== FEATURE 8: SNAKE ANIMATION (FIXED) ====== -->
-## 🐍 Contribution Snake (Animated)
+<!-- ====== FEATURE 8: GITWORLD ANIMATION (NEW & BETTER) ====== -->
+## 🌆 My GitHub Contributions as a Living City
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/gitworld.svg" width="100%" alt="GitWorld City" />
 </p>
 
-> 🐍 *This snake eats your contributions! Start pushing code to see it turn green.*
+> 🏙️ *This is a living city built from your GitHub activity! Repositories = buildings, Commits = construction, PRs = bosses, Issues = monsters.*
 
-> 💡 **Note:** If you see a blank space, don't worry! The snake will appear once you make your first contribution and the GitHub Action runs automatically.
+> 💡 **Note:** The city will start building after you make your first contribution and the GitHub Action runs. Give it 24 hours to fully generate!
 
 ---
 
@@ -108,6 +104,9 @@
   <a href="https://github.com/dilshankumara001001">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 📧 **Email:** dileepadilshan46@gmail.com  
@@ -115,6 +114,7 @@
 
 ---
 
+<!-- ====== FEATURE 10: FAVORITE QUOTE ====== -->
 ## 💬 My Favorite Quote
 
 > *"Code. Learn. Build. Improve. Repeat."*
