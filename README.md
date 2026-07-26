@@ -72,16 +72,18 @@
 
 ---
 
-<!-- ====== FEATURE 7: RANDOM DEV QUOTE ====== -->
-## ✍️ Random Dev Quote
+<!-- ====== FEATURE 7: PERSONAL QUOTE (CUSTOM - NO API) ====== -->
+## ✍️ My Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <i>"You can't control the world, but you can control your mind."</i>
+  <br>
+  <b>- Dilshan Kumara</b>
 </p>
 
 ---
 
-<!-- ====== FEATURE 8: CONNECT WITH ME (UPDATED WITH ALL LINKS) ====== -->
+<!-- ====== FEATURE 8: CONNECT WITH ME ====== -->
 ## 🌐 Connect With Me
 
 <p align="center">
