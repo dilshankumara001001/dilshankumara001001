@@ -81,20 +81,7 @@
 
 ---
 
-<!-- ====== FEATURE 8: GITWORLD ANIMATION ====== -->
-## 🌆 My GitHub Contributions as a Living City
-
-<p align="center">
-  <img src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/gitworld.svg" width="100%" alt="GitWorld City" />
-</p>
-
-> 🏙️ *This living city is built from your GitHub activity! Repositories → buildings, Commits → construction, PRs → bosses, Issues → monsters.*
-
-> 💡 **Note:** The city will start building after you make your first contribution and the GitHub Action runs. Give it 24 hours to fully generate!
-
----
-
-<!-- ====== FEATURE 9: CONNECT WITH ME ====== -->
+<!-- ====== FEATURE 8: CONNECT WITH ME ====== -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -104,9 +91,6 @@
   <a href="https://github.com/dilshankumara001001">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 📧 **Email:** dileepadilshan46@gmail.com  
@@ -114,7 +98,7 @@
 
 ---
 
-<!-- ====== FEATURE 10: FAVORITE QUOTE ====== -->
+<!-- ====== FEATURE 9: FAVORITE QUOTE ====== -->
 ## 💬 My Favorite Quote
 
 > *"Code. Learn. Build. Improve. Repeat."*
