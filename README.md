@@ -1,9 +1,9 @@
-<!-- WAVING BANNER -->
+<!-- Welcome Banner with Wave Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dilshan%20Kumara&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- TYPING TEXT -->
+<!-- Typing Animation -->
 <h1 align="center">Hi 👋, I'm Dilshan Kumara</h1>
 
 <h3 align="center">
@@ -16,41 +16,37 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Higher National Diploma in Information Technology (HNDIT) Student
+I'm currently pursuing my **Higher National Diploma in Information Technology (HNDIT)** at the **Advanced Technological Institute (ATI), Tangalle, Sri Lanka**.
 
-🏫 Advanced Technological Institute (ATI), Tangalle, Sri Lanka
+I have a strong passion for **software development** and **web technologies**. I enjoy building practical solutions and continuously learning new skills to grow as a developer.
 
-💻 Passionate about Software Development and Web Development
+**What I'm currently learning:**
+- Java, PHP, JavaScript, C#
+- HTML5, CSS3, MySQL
+- Software Engineering & Business Analysis
+- IT Service Management (ITSM)
 
-🌱 Currently Learning: Java, PHP, JavaScript, C#, HTML5, CSS3, MySQL
-
-🎯 Goal: Become a Professional Software Engineer
-
----
-
-# 📂 Academic Projects
-
-🍽 Food Inventory Management System
-
-🍕 Online Food Ordering System
-
-🌍 Travel & Tour Website
-
-🚗 Car Rental Management System
-
-🛒 Supermarket Billing Management System
-
-🎓 Student Attendance Management System
-
-📚 Student Grade Calculator (Java)
-
-💾 Secure Backup Software System
+**My goal:**  
+To become a professional software engineer and build useful, high-quality software that makes a difference.
 
 ---
 
-# 💻 Tech Stack
+## 📂 Academic Projects I've Built
+
+- 🍽 **Food Inventory Management System**  
+- 🍕 **Online Food Ordering System**  
+- 🌍 **Travel & Tour Website**  
+- 🚗 **Car Rental Management System**  
+- 🛒 **Supermarket Billing Management System**  
+- 🎓 **Student Attendance Management System**  
+- 📚 **Student Grade Calculator** (Java)  
+- 💾 **Secure Backup Software System**
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,cs,git,github,vscode,figma&perline=6" />
@@ -58,7 +54,7 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dilshankumara001001&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -71,7 +67,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshankumara001001&theme=tokyo-night&hide_border=true" />
@@ -79,38 +75,42 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilshankumara001001&theme=tokyonight&column=4&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dilshankumara001001&theme=tokyonight&column=4&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
+> 💡 **Note:** The snake will appear green once you start making contributions and the GitHub Action runs automatically. If it looks empty right now, don't worry – it will come to life as soon as you push some code!
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-📧 **Email:** dileepadilshan46@gmail.com
-
-📞 **Phone:** 0701004534
-
+📧 **Email:** dileepadilshan46@gmail.com  
+📞 **Phone:** 0701004534  
 💻 **GitHub:** https://github.com/dilshankumara001001
 
 ---
 
-# 💬 Favorite Quote
+## 💬 My Favorite Quote
 
-> "Code. Learn. Build. Improve. Repeat."
+> *"Code. Learn. Build. Improve. Repeat."*
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile! Have a great day! ⭐
 </p>
