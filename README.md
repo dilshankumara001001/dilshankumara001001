@@ -1,9 +1,9 @@
-<!-- ========== WAVING BANNER (Animation 1) ========== -->
+<!-- WAVING BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dilshan%20Kumara&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- ========== TYPING TEXT (Animation 2) ========== -->
+<!-- TYPING TEXT -->
 <h1 align="center">Hi 👋, I'm Dilshan Kumara</h1>
 
 <h3 align="center">
@@ -12,10 +12,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;HNDIT+Student+from+Sri+Lanka;Aspiring+Software+Engineer;Passionate+about+Software+Development"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilshankumara001001&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -69,10 +65,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshankumara001001&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankumara001001&theme=tokyonight&hide_border=true" />
 </p>
@@ -95,8 +87,7 @@
 
 ---
 
-<!-- ========== SNAKE ANIMATION (Animation 3) ========== -->
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake (Animated)
 
 <p align="center">
   <img src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
