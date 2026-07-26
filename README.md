@@ -16,7 +16,7 @@
 
 ---
 
-<!-- ====== FEATURE 3: ABOUT ME + LEARNING ====== -->
+<!-- ====== FEATURE 3: ABOUT ME ====== -->
 ## 👨‍💻 About Me
 
 🎓 **Education:** HNDIT at ATI Tangalle, Sri Lanka  
@@ -40,7 +40,7 @@
 
 ---
 
-<!-- ====== FEATURE 4: TECH STACK ICONS ====== -->
+<!-- ====== FEATURE 4: TECH STACK ====== -->
 ## 💻 Tech Stack
 
 <p align="center">
@@ -49,7 +49,7 @@
 
 ---
 
-<!-- ====== FEATURE 5: GITHUB STATS (3-in-1) ====== -->
+<!-- ====== FEATURE 5: GITHUB STATS ====== -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -81,33 +81,24 @@
 
 ---
 
-<!-- ====== FEATURE 8: SNAKE ANIMATION ====== -->
+<!-- ====== FEATURE 8: SNAKE ANIMATION (FIXED) ====== -->
 ## 🐍 Contribution Snake (Animated)
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://github.com/dilshankumara001001/dilshankumara001001/raw/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
-> 🐍 *The snake eats your contributions! Start pushing code to see it turn green.*
+> 🐍 *This snake eats your contributions! Start pushing code to see it turn green.*
+
+> 💡 **Note:** If you see a blank space, don't worry! The snake will appear once you make your first contribution and the GitHub Action runs automatically.
 
 ---
 
-<!-- ====== FEATURE 9: LATEST GITHUB ACTIVITY ====== -->
-## 🔄 Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!-- If you want to show your recent activity, uncomment the lines below and set up the GitHub Action -->
-<!--RECENT_ACTIVITY:end-->
-
-> 💡 *Want to see your latest commits, PRs, and issues here? Let me know and I'll help you set it up!*
-
----
-
-<!-- ====== FEATURE 10: CONNECT WITH ME ====== -->
+<!-- ====== FEATURE 9: CONNECT WITH ME ====== -->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -116,12 +107,6 @@
   </a>
   <a href="https://github.com/dilshankumara001001">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
