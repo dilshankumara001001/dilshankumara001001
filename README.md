@@ -72,27 +72,7 @@
 
 ---
 
-<!-- ====== FEATURE 7: GITHUB TROPHIES ====== -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilshankumara001001&theme=tokyonight&column=4&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
-<!-- ====== FEATURE 8: WAKATIME CODING STATS ====== -->
-## ⏳ WakaTime Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dilshankumara001001&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-</p>
-
-> 💡 *This shows your coding activity. If it's empty, just set up WakaTime in your IDE – it will start tracking automatically!*
-
----
-
-<!-- ====== FEATURE 9: RANDOM DEV QUOTE ====== -->
+<!-- ====== FEATURE 7: RANDOM DEV QUOTE ====== -->
 ## ✍️ Random Dev Quote
 
 <p align="center">
@@ -101,7 +81,7 @@
 
 ---
 
-<!-- ====== FEATURE 10: SNAKE ANIMATION ====== -->
+<!-- ====== FEATURE 8: SNAKE ANIMATION ====== -->
 ## 🐍 Contribution Snake (Animated)
 
 <p align="center">
@@ -116,11 +96,37 @@
 
 ---
 
+<!-- ====== FEATURE 9: LATEST GITHUB ACTIVITY ====== -->
+## 🔄 Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!-- If you want to show your recent activity, uncomment the lines below and set up the GitHub Action -->
+<!--RECENT_ACTIVITY:end-->
+
+> 💡 *Want to see your latest commits, PRs, and issues here? Let me know and I'll help you set it up!*
+
+---
+
+<!-- ====== FEATURE 10: CONNECT WITH ME ====== -->
 ## 🌐 Connect With Me
 
+<p align="center">
+  <a href="mailto:dileepadilshan46@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dilshankumara001001">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
 📧 **Email:** dileepadilshan46@gmail.com  
-📞 **Phone:** 0701004534  
-💻 **GitHub:** https://github.com/dilshankumara001001
+📞 **Phone:** 0701004534
 
 ---
 
