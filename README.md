@@ -61,16 +61,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankumara001001&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<!-- ====== FEATURE 6: CONTRIBUTION GRAPH ====== -->
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshankumara001001&theme=tokyo-night&hide_border=true&radius=6" />
-</p>
-
----
+--
 
 <!-- ====== FEATURE 7: PERSONAL QUOTE ====== -->
 ## ✍️ My Quote
