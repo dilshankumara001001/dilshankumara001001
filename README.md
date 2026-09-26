@@ -17,7 +17,7 @@
 ---
 
 <!-- ====== FEATURE 3: ABOUT ME ====== -->
-## 👨‍💻 About Me
+## 👨‍💻 About Me 😌
 
 🎓 **Education:** HNDIT at ATI Tangalle, Sri Lanka  
 💻 **Passion:** Software Development & Web Technologies  
