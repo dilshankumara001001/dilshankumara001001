@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dilshan%20Kumara&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- ====== FEATURE 2: TYPING TEXT ANIMATION ====== -->
+
 <h1 align="center">Hi 👋, I'm Dilshan Kumara</h1>
 
 <h3 align="center">
