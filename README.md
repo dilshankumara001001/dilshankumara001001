@@ -1,4 +1,4 @@
-<!-- ====== FEATURE 1: ANIMATED WAVING BANNER ====== -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dilshan%20Kumara&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
